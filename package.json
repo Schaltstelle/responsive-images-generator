@@ -1,5 +1,5 @@
 {
-  "name": "responsive-images-generator",
+  "name": "responsive-images-generator2",
   "version": "0.2.2",
   "description": "Generate responsive images",
   "main": "index.js",
@@ -27,8 +27,7 @@
     "rename": "1.0.4",
     "sharp": "0.23.4"
   },
-  "devDependencies"
-  : {
+  "devDependencies": {
     "mocha": "7.0.0",
     "standard": "14.3.1"
   }
