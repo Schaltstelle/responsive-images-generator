@@ -1,6 +1,6 @@
 {
   "name": "responsive-images-generator2",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "description": "Generate responsive images",
   "main": "index.js",
   "scripts": {
